@@ -1,5 +1,5 @@
 
-title & bullet features       (*important) 
+## title & bullet features       (*important) 
 
 ```
 <style> .responsive-iframe { width: 100%; border: none; } </style>
@@ -10,13 +10,13 @@ title & bullet features       (*important)
 <td style="width: 3.92517%;"></td>
 <td style="width: 95.2294%;">
 <ul style="font-size: 14px;">
-<li class="dDh"><span style="font-size: 14px;">`item1`</span></li>
-<li class="dDh"><span style="font-size: 14px;">`item2`</span></li>
-<li class="dDh"><span style="font-size: 14px;">`item3`</span></li>
-<li class="dDh"><span style="font-size: 14px;">`item4`</span></li>
-<li class="dDh"><span style="font-size: 14px;">`item5`</span></li>
-<li class="dDh"><span style="font-size: 14px;">`item6`</span></li>
-<li class="dDh"><span style="font-size: 14px;">`item7`</span></li>
+<li class="dDh"><span style="font-size: 14px;">item1</span></li>
+<li class="dDh"><span style="font-size: 14px;">item2</span></li>
+<li class="dDh"><span style="font-size: 14px;">item3</span></li>
+<li class="dDh"><span style="font-size: 14px;">item4</span></li>
+<li class="dDh"><span style="font-size: 14px;">item5</span></li>
+<li class="dDh"><span style="font-size: 14px;">item6</span></li>
+<li class="dDh"><span style="font-size: 14px;">item7</span></li>
 </ul>
 </td>
 </tr>
@@ -26,7 +26,7 @@ title & bullet features       (*important)
 
 ```
 
-table  (*important)
+## table  (*important)
 ```
 <table style="font-size: 14px;">
 <tbody>
@@ -48,7 +48,7 @@ table  (*important)
 ```
 
 
-(paste this after the table  *important)
+## paste this after the table  (*important)
 ```
 <p></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
@@ -62,7 +62,7 @@ table  (*important)
 
 
 
-(gText) side to side w/ image
+## (gText) side to side w/ image
 ```
 
 <tr>
@@ -94,7 +94,7 @@ table  (*important)
 ```
 
 
-(gText) wide image w/ 2 gText
+## (gText) wide image w/ 2 gText
 ```
 
 <tr>
@@ -123,7 +123,7 @@ table  (*important)
 ```
 
 
-(gText) image - text
+## (gText) image - text
 ```
 
 <tr>
