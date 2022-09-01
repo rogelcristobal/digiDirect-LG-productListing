@@ -3,20 +3,20 @@
 
 ```HTML
 <style> .responsive-iframe { width: 100%; border: none; } </style>
-<div class="dDh"><span style="color: #ff6600; font-size: 20px;"><strong>productTitle</strong></span>
+<div class="dDh"><span style="color: #ff6600; font-size: 20px;"><strong> productTitle </strong></span>
 <table style="border-collapse: collapse; width: 75.3623%; height: 23px;" border="0">
 <tbody>
 <tr>
 <td style="width: 3.92517%;"></td>
 <td style="width: 95.2294%;">
 <ul style="font-size: 14px;">
-<li class="dDh"><span style="font-size: 14px;"> `item1` </span></li>
-<li class="dDh"><span style="font-size: 14px;">item2</span></li>
-<li class="dDh"><span style="font-size: 14px;">item3</span></li>
-<li class="dDh"><span style="font-size: 14px;">item4</span></li>
-<li class="dDh"><span style="font-size: 14px;">item5</span></li>
-<li class="dDh"><span style="font-size: 14px;">item6</span></li>
-<li class="dDh"><span style="font-size: 14px;">item7</span></li>
+<li class="dDh"><span style="font-size: 14px;"> item1 </span></li>
+<li class="dDh"><span style="font-size: 14px;"> item2 </span></li>
+<li class="dDh"><span style="font-size: 14px;"> item3 </span></li>
+<li class="dDh"><span style="font-size: 14px;"> item4 </span></li>
+<li class="dDh"><span style="font-size: 14px;"> item5 </span></li>
+<li class="dDh"><span style="font-size: 14px;"> item6 </span></li>
+<li class="dDh"><span style="font-size: 14px;"> item7 </span></li>
 </ul>
 </td>
 </tr>
@@ -67,27 +67,27 @@
 
 <tr>
 <td style="width: 49.5773%;">
-<h3>imageHere</h3>
+<h3> imageHere </h3>
 </td>
 <td style="width: 49.5773%;">
-<h3>imageHere</h3>
+<h3> imageHere </h3>
 </td>
 </tr>
 <tr>
 <td style="width: 49.5773%;">
 <div class="a-section a-spacing-none column-heading">
-<h3 class="aplus-h3 a-text-bold"><strong>gTextTitleHere</strong></h3>
+<h3 class="aplus-h3 a-text-bold"><strong> gTextTitleHere </strong></h3>
 </div>
 <div class="a-section a-spacing-none column-description">
-<p class="aplus-p3">descriptionHere</p>
+<p class="aplus-p3"> descriptionHere </p>
 </div>
 </td>
 <td style="width: 49.5773%;">
 <div class="a-section a-spacing-none column-heading">
-<h3 class="aplus-h3 a-text-bold"><strong>gTextTitleHere</strong></h3>
+<h3 class="aplus-h3 a-text-bold"><strong> gTextTitleHere </strong></h3>
 </div>
 <div class="a-section a-spacing-none column-description">
-<p class="aplus-p3">descriptionHere</p>
+<p class="aplus-p3"> descriptionHere </p>
 </div>
 </td>
 </tr>
@@ -99,24 +99,24 @@
 
 <tr>
 <td style="width: 99.1546%;" colspan="2">
-<h3>imageHere</h3>
+<h3> imageHere </h3>
 </td>
 </tr>
 <tr>
 <td style="width: 49.5773%;">
 <div class="a-section a-spacing-none column-heading">
-<h3 class="aplus-h3 a-text-bold"><strong>gTextTitleHere</strong></h3>
+<h3 class="aplus-h3 a-text-bold"><strong> gTextTitleHere </strong></h3>
 </div>
 <div class="a-section a-spacing-none column-description">
-<p class="aplus-p3">descriptionHere</p>
+<p class="aplus-p3"> descriptionHere </p>
 </div>
 </td>
 <td style="width: 49.5773%;">
 <div class="a-section a-spacing-none column-heading">
-<h3 class="aplus-h3 a-text-bold"><strong>gTextTitleHere</strong></h3>
+<h3 class="aplus-h3 a-text-bold"><strong> gTextTitleHere </strong></h3>
 </div>
 <div class="a-section a-spacing-none column-description">
-<p class="aplus-p3">descriptionHere</p>
+<p class="aplus-p3"> descriptionHere </p>
 </div>
 </td>
 </tr>
