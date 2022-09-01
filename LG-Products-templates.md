@@ -62,9 +62,8 @@
 
 
 
-## (gText) side to side w/ 
-![alt text](https://github.com/rogelcristobal/digiDirect-LG-productListing/tree/main/img/img-text.png "Logo Title Text 1")
-
+## (gText) side to side w/ img
+![alt text](https://github.com/rogelcristobal/digiDirect-LG-productListing/blob/main/image.jpg?raw=true)
 ```HTML
 
 <tr>
