@@ -1,8 +1,5 @@
- <!-- LG Products templates (short description) -->
 
-
-
- <!-- (title & bullet features       *important)  -->
+(title & bullet features       *important) 
 
 ```
 <style> .responsive-iframe { width: 100%; border: none; } </style>
@@ -28,11 +25,9 @@
 </div>
 
 ```
-<!-- end -->
 
-
- <!-- (table  *important) -->
- /*
+(table  *important)
+```
 <table style="font-size: 14px;">
 <tbody>
 <tr>
@@ -50,32 +45,43 @@
 <td></td>
 </tr>
 </tbody>
+</table> <table style="font-size: 14px;">
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
 </table> 
-*/
-
-<!-- end -->
+```
 
 
-
-
- <!-- (paste this after the table  *important) -->
+(paste this after the table  *important)
+```
 <p></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 
-	choose a gtext layout below & put inside this tbody tag & delete this comment
+	<!-- choose a gtext layout below & put inside this tbody tag & delete this comment -->
 
 </tbody>
 </table>
-
-<!-- end -->
-
+```
 
 
 
-
- <!-- (gText) side to side w/ image -->
-
+(gText) side to side w/ image
+```
 
 <tr>
 <td style="width: 49.5773%;">
@@ -103,12 +109,11 @@
 </div>
 </td>
 </tr>
-
-<!-- end -->
-
+```
 
 
- <!-- (gText) wide image w/ 2 gText -->
+(gText) wide image w/ 2 gText
+```
 
 <tr>
 <td style="width: 99.1546%;" colspan="2">
@@ -133,11 +138,11 @@
 </div>
 </td>
 </tr>
+```
 
-<!-- end -->
 
-
-<!-- (gText) image - text -->
+(gText) image - text
+```
 
 <tr>
 <td style="width: 99.1546%;" colspan="2">
@@ -155,5 +160,4 @@
 </div>
 </td>
 </tr>
-
-<!-- end -->
+```
