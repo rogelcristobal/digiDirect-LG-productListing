@@ -61,7 +61,7 @@
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 
-	/*choose a gtext layout below & put inside this tbody tag & delete this comment*/
+	choose a gtext layout below & put inside this tbody tag & delete this comment
 
 </tbody>
 </table>
