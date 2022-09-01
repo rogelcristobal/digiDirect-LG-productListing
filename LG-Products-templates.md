@@ -45,24 +45,6 @@
 <td></td>
 </tr>
 </tbody>
-</table> <table style="font-size: 14px;">
-<tbody>
-<tr>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table> 
 ```
 
 
