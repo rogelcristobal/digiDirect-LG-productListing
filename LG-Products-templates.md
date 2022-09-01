@@ -1,7 +1,7 @@
 
 ## title & bullet features       (*important) 
 
-```
+```HTML
 <style> .responsive-iframe { width: 100%; border: none; } </style>
 <div class="dDh"><span style="color: #ff6600; font-size: 20px;"><strong>productTitle</strong></span>
 <table style="border-collapse: collapse; width: 75.3623%; height: 23px;" border="0">
@@ -27,7 +27,7 @@
 ```
 
 ## table  (*important)
-```
+```HTML
 <table style="font-size: 14px;">
 <tbody>
 <tr>
@@ -49,7 +49,7 @@
 
 
 ## paste this after the table  (*important)
-```
+```HTML
 <p></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -63,7 +63,7 @@
 
 
 ## (gText) side to side w/ image
-```
+```HTML
 
 <tr>
 <td style="width: 49.5773%;">
@@ -95,7 +95,7 @@
 
 
 ## (gText) wide image w/ 2 gText
-```
+```HTML
 
 <tr>
 <td style="width: 99.1546%;" colspan="2">
@@ -124,7 +124,7 @@
 
 
 ## (gText) image - text
-```
+```HTML
 
 <tr>
 <td style="width: 99.1546%;" colspan="2">
