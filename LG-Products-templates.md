@@ -63,7 +63,7 @@
 
 
 ## (gText) side to side w/ img
-![alt text](https://github.com/rogelcristobal/digiDirect-LG-productListing/blob/main/img-text.png?raw=true)
+![alt text](./img/img-text.png)
 ```HTML
 
 <tr>
