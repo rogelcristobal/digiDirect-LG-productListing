@@ -3,7 +3,7 @@
 
 
  <!-- (title & bullet features     *important)  -->
-
+<pre>
 <style> .responsive-iframe { width: 100%; border: none; } </style>
 <div class="dDh"><span style="color: #ff6600; font-size: 20px;"><strong>productTitle</strong></span>
 <table style="border-collapse: collapse; width: 75.3623%; height: 23px;" border="0">
@@ -25,7 +25,7 @@
 </tbody>
 </table>
 </div>
-
+</pre>
 <!-- end -->
 
 
