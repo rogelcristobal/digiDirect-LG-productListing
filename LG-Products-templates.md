@@ -1,4 +1,4 @@
-# Paste all with "important" first in order
+# Paste all with "important" first in order then select the gText layout
 ## title & bullet features       (*important) 
 
 ```HTML
