@@ -1,5 +1,5 @@
 
-(title & bullet features       *important) 
+title & bullet features       (*important) 
 
 ```
 <style> .responsive-iframe { width: 100%; border: none; } </style>
@@ -10,13 +10,13 @@
 <td style="width: 3.92517%;"></td>
 <td style="width: 95.2294%;">
 <ul style="font-size: 14px;">
-<li class="dDh"><span style="font-size: 14px;">item1</span></li>
-<li class="dDh"><span style="font-size: 14px;">item2</span></li>
-<li class="dDh"><span style="font-size: 14px;">item3</span></li>
-<li class="dDh"><span style="font-size: 14px;">item4</span></li>
-<li class="dDh"><span style="font-size: 14px;">item5</span></li>
-<li class="dDh"><span style="font-size: 14px;">item6</span></li>
-<li class="dDh"><span style="font-size: 14px;">item7</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item1`</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item2`</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item3`</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item4`</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item5`</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item6`</span></li>
+<li class="dDh"><span style="font-size: 14px;">`item7`</span></li>
 </ul>
 </td>
 </tr>
@@ -26,7 +26,7 @@
 
 ```
 
-(table  *important)
+table  (*important)
 ```
 <table style="font-size: 14px;">
 <tbody>
