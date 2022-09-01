@@ -96,6 +96,7 @@
 
 
 ## (gText) wide image w/ 2 gText
+![alt text](./img/img3.png)
 ```HTML
 
 <tr>
@@ -125,6 +126,7 @@
 
 
 ## (gText) image - text
+![alt text](./img/img2.png)
 ```HTML
 
 <tr>
